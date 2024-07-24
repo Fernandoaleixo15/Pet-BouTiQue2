@@ -24,7 +24,7 @@ h2{
 
 /* inicio seção Bannner*/
 .banner-topo{
-    background-image: url("/img/Banner-topo1.jpg");
+    background-image: url("./img/Banner-topo1.jpg");
     background-position: center;
     background-size: cover;
 }
